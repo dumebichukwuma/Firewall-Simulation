@@ -1,8 +1,6 @@
 # Firewall-Simulation
 <img width="902" height="430" alt="image" src="https://github.com/user-attachments/assets/8170a604-dbd8-4337-b598-0c7496a2ffd0" />
 
-# Secure Three-Tier Network Configuration (Cisco Packet Tracer)
-
 This project demonstrates the implementation of a **Secure Network Architecture** using a Cisco 2911 Router to segment traffic between an **Internal LAN**, a **DMZ (Demilitarized Zone)**, and an **External Network**.
 
 The core of the project focuses on **Stateless Firewalling** using Extended Access Control Lists (ACLs) to enforce the Principle of Least Privilege.
